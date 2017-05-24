@@ -1,0 +1,292 @@
+/* common */
+.header {
+    width: 100%;
+    height: 100%;
+    background: #000;
+    border-radius: 0;
+}
+
+.login-box {
+    width: 360px;
+    background: #fff;
+    z-index: 10;
+    position: fixed;
+    overflow: hidden;
+    margin: auto;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    display: none;
+}
+
+.shade {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: #000;
+    opacity: 0.5;
+    z-index: 8;
+    display: none;
+}
+
+.close-btn {
+    position: absolute;
+    right: 20px;
+    font-size: 36px;
+    top: 16px;
+    color: #000;
+    text-decoration: none;
+}
+
+.close-btn:hover {
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.close-btn:link {
+    text-decoration: none;
+    color: #000;
+}
+
+.login-tips {
+    color: #ff0000;
+    opacity: 0;
+}
+
+.footer {
+    margin-top: 100px;
+    height: 150px;
+    background: #000;
+}
+
+.footer ul li {
+    float: left;
+    list-style: none;
+    margin: 0 20px;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer ul li a:hover {
+    color: #ff5d5a;
+}
+
+.footer-info-group {
+    padding: 50px;
+}
+/* register */
+.tips {
+    color: #ff0000;
+    font-size: 12px;
+    opacity: 0;
+}
+/* index */
+.course-group {
+    margin: 10px 20px;
+}
+
+.text-decoration {
+    color: #bbb;
+    font-size: 12px;
+}
+/* courseList */
+.course-lists li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
+
+.course-lists {
+    margin: 20px auto;
+}
+
+.breadcrumb-white {
+    background: #fff;
+}
+.course-group {
+    height: 220px;
+}
+.course-detail {
+    height: 70px;
+    overflow: hidden;
+}
+/* courseDetail */
+.color-aaa {
+    color: #aaa;
+}
+
+/* article */
+.article-date {
+    margin-right: 30px;
+}
+
+.comment-article {
+    margin: 10px 0;
+}
+
+.comment-header {
+    margin: 30px 0;
+}
+.sendComment {
+    margin-top: 100px;
+}
+.sendComment button{
+    margin-top: 10px;
+}
+/* bbs */
+.question-tips span {
+    margin-right: 5px;
+}
+.bbs-item h4 {
+    display: inline-block;
+}
+.edit-question {
+    position: fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 400px;
+    height: 330px;
+    background: #fff;
+    z-index: 999;
+    padding-top: 30px;
+    display: none;
+}
+.edit-question textarea {
+    resize: none;
+}
+.question-close-btn {
+    margin-top: -10px;
+}
+
+/* setting */
+.setting {
+    padding: 0;
+}
+
+.setting-nav {
+    padding: 0;
+}
+
+.setting-nav li {
+    list-style: none;
+    text-align: center;
+    padding: 20px 0;
+    margin: 10px 0;
+}
+
+.setting-nav h4 {
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.setting-nav .setting-btn-active {
+    color: #fff;
+    background: #ff0000;
+}
+
+.setting-nav a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    background: #eee;
+}
+
+.setting-nav a :hover {
+    color: #fff;
+}
+
+.setting-nav img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid #ccc;
+
+}
+
+.setting-panel span {
+    display: block;
+    line-height: 35px;
+}
+
+.setting-panel textarea {
+    resize: none;
+}
+
+/* setCourse */
+.table-course th {
+    text-align: center;
+}
+.table-course td {
+    font-size: 20px;
+    text-align: center;
+}
+.table-course td a {
+    text-decoration: none;
+    color: #000;
+}
+
+.table-course td a:hover {
+    color: #aaa;
+}
+
+.home img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 10px auto;
+    display: block;
+    border: 5px solid #ccc;
+}
+
+/* user index */
+.home-container {
+    width: 60%;
+    background: #666666;
+    border:1px solid #CC9966;
+    box-shadow: 1px 1px #CC9999;
+    padding-bottom: 50px;
+    color: #eee;
+}
+
+.article-item {
+    padding: 10px 0;
+    margin: 10px 0;
+}
+.article-item a {
+    text-decoration: none;
+    color: #666;
+}
+
+.article-item a:hover {
+    color: #ccc;
+}
+
+.article-item h2 a{
+    color: #eee;
+}
+
+.article-item .date {
+    color: #aaa;
+}
+
+.user-info h5 {
+    color: #aaa;
+}
+
+.setting-nav .goPortrait {
+    background: #fff;
+}
+
+.article-list {
+    list-style: none;
+}

@@ -1,0 +1,1205 @@
+[ 2017-05-23T00:26:16+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005601s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:26:16+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003642s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:26:19+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-23T00:26:19+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:26:32+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:26:32+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:26:59+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-05-23T00:26:59+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:31:50+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:31:50+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:32:22+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:32:22+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:33:10+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:33:10+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:33:18+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:33:18+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:33:23+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:33:23+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:33:55+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:33:55+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:34:13+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:34:13+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:18+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000708s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:34:18+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:20+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:59:26+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="null" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:59:26+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=null )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:59:39+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:59:39+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:59:43+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:59:45+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:59:45+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:01:00+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:01:00+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001968s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:01:10+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:01:10+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:01:33+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:01:33+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:01:51+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:01:51+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:02:08+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:02:08+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:02:15+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:02:15+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:02:20+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:02:20+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:03:06+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:03:06+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:03:25+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:03:25+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002468s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:03:30+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:03:30+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0005s ]
+
+[ 2017-05-23T01:03:50+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:03:50+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:04:01+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:04:01+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:04:06+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:04:06+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:04:11+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:04:11+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:04:19+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:04:19+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:04:24+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:04:24+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:05:09+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-05-23T01:05:09+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:05:12+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:05:13+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T01:05:13+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:05:38+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:05:38+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:05:47+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:05:51+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T01:05:51+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:05:53+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:05:55+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:05:55+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T01:06:04+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:06:14+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:06:51+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:07:12+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:07:22+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:07:27+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:07:27+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001368s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:07:39+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:07:43+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:07:49+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:08:14+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:08:18+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:08:22+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:08:25+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogById&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_blog` WHERE ( articleId=2 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:08:34+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:08:34+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:08:38+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:08:41+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:08:41+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:09:16+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:09:17+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:10:06+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="4" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T01:10:06+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:00:19+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0004s ]
+
+[ 2017-05-23T16:00:20+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:00:21+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:01:25+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=sendBlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="16" and password="3af9f63c3e295043eda52fbec864998a" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0027s ]
+SQL: INSERT INTO `db_blog` (`title`,`objectId`,`content`) VALUES ('梵蒂冈','16','&lt;h1 id=&quot;-&quot;&gt;嗨&lt;/h1&gt;
+&lt;h1 id=&quot;-&quot;&gt;我是李连芸&lt;/h1&gt;
+&lt;h3 id=&quot;good&quot;&gt;good&lt;/h3&gt;
+') [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:01:26+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:01:35+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:01:38+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:01:48+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:01:48+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="16" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:02:38+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="16" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:02:38+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:02:48+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:02:48+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002002s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="16" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:03:21+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:04:29+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=4 )  [ RunTime:0.0005s ]
+
+[ 2017-05-23T16:04:30+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="16" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:04:30+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0004s ]
+
+[ 2017-05-23T19:40:17+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getUser&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `db_user` WHERE ( objectId="1" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T19:40:17+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-23T19:40:27+08:00 ] ::1 /eduWeb/API/index.php?m=blog&c=blog&a=getBlogList&id=16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+SQL: SHOW COLUMNS FROM `db_blog` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `db_blog` WHERE ( objectId=16 )  [ RunTime:0.0002s ]
+

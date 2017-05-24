@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="UTF-8">
+    <title>公告设置</title>
+    <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../../css/home.css" rel="stylesheet" type="text/css">
+    <link href="../../css/admin.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="admin-block">
+    <div class="admin-left">
+        <h1><label>ITEDU</label></h1>
+        <div class="admin-list">
+            <ul>
+                <a href="welcome.html"><li>仪表盘</li></a>
+                <a href="devLog.html"><li>开发日志</li></a>
+                <a href="userInfo.html"><li>用户信息</li></a>
+                <a href="setAn.html"><li class="list-active">公告设置</li></a>
+                <a href="setClassify.html"><li>分类设置</li></a>
+                <a href="javascript:;" class="is-develop"><li>广告设置(研发中)</li></a>
+                <a href="javascript:;" class="is-develop"><li>用户反馈(研发中)</li></a>
+                <a href="javascript:;" class="is-develop"><li>权限设置(研发中)</li></a>
+                <a href="javascript:;" class="is-develop"><li>群体私信(研发中)</li></a>
+                <a href="javascript:;" class="is-develop"><li>关闭网站(研发中)</li></a>
+                <a href="javascript:;" class="is-develop"><li>数据分析(研发中)</li></a>
+            </ul>
+        </div>
+    </div>
+    <div class="admin-right">
+        <div class="alert alert-info" role="alert">提示：目前你只能设置1条公告，它将会显示在每个用户个人设置中。</div>
+        <div class="page-header">
+            <h1>公告设置</h1>
+            <label>公告信息：</label>
+            <textarea class="form-control an-textarea" rows="10" id="an-content"></textarea>
+            <button class="btn btn-danger" id="submit">更新公告</button>
+        </div>
+    </div>
+</div>
+<script src="../../js/common/jquery-1.11.2.min.js"></script>
+<script src="../../js/common/bootstrap.min.js"></script>
+<script src="../../js/common/layer/layer.js"></script>
+<script src="../../js/common/dialog.js"></script>
+<script src="../../js/admin/controllers/announcement.js"></script>
+<script src="../../js/admin/controllers/other.js"></script>
+<script src="../../js/admin/controllers/admin.js"></script>
+<script src="../../js/admin/controllers/common.js"></script>
+<script src="../../js/admin/views/setAn.js"></script>
+</body>
+</html>

@@ -1,0 +1,268 @@
+[ 2017-05-14T22:42:54+08:00 ] ::1 /eduWeb/API/?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-05-14T22:43:16+08:00 ] ::1 /eduWeb/API/?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-05-14T22:43:17+08:00 ] ::1 /eduWeb/API/?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-05-14T22:45:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-05-14T22:51:03+08:00 ] ::1 /eduWeb/API/index.php?m=user&a=check&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-05-14T22:52:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-05-14T22:52:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-05-14T22:53:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-05-14T22:54:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2017-05-14T22:54:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-05-14T22:55:28+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-05-14T22:55:37+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-05-14T22:55:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-05-14T22:56:44+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-05-14T22:57:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-05-14T22:57:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-05-14T22:59:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-05-14T23:43:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-05-14T23:45:45+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-05-14T23:46:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001613s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000853s ]
+
+[ 2017-05-14T23:46:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-05-14T23:47:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-05-14T23:47:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2017-05-14T23:47:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+

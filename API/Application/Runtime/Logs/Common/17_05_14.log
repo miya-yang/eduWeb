@@ -1,0 +1,18 @@
+[ 2017-05-14T22:42:00+08:00 ] ::1 /eduWeb/API/Application/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-14T22:42:17+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-14T22:48:14+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Application
+

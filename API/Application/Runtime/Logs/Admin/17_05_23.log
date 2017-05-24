@@ -1,0 +1,2107 @@
+[ 2017-05-23T00:02:04+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:02:04+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0034s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:04:09+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:04:14+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0052s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:07:46+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:07:46+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0037s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:08:42+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:08:43+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0042s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:09:01+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001705s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:09:01+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0044s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:09:05+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0087s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:11:14+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0031s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:11:25+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:11:25+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0074s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:11:51+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0037s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:11:52+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0058s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:12:00+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:12:01+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0072s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:12:02+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0037s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:12:03+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0031s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:13:20+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0035s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:13:21+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:13:32+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:13:32+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:14:11+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0043s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:14:11+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:14:35+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0044s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:14:35+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:14:41+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:15:31+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001301s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0086s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:15:33+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:15:54+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0078s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:16:39+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0049s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:16:39+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:16:42+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001924s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:17:14+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:17:22+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:17:23+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0076s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:17:27+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0078s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:18:10+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:18:47+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0043s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:18:48+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:19:52+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:19:53+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0042s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:19:56+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:19:58+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002366s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0044s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:20:34+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0078s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:20:37+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0047s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-23T00:22:02+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0042s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:22:03+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:24:14+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:24:18+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0037s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:24:50+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:24:52+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0074s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:24:54+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:24:55+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002012s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:25:11+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:25:12+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004020s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:25:14+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:25:14+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:25:14+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:25:31+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0055s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:26:06+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001380s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0029s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:26:13+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0099s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:26:59+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0037s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:27:00+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002440s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0034s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:27:17+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:27:18+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0072s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:27:21+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-23T00:27:22+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:27:33+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0027s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:27:51+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0048s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:28:46+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:28:55+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0083s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:28:56+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0042s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:28:57+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003324s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:29:16+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0043s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:29:17+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:29:52+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:29:55+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0079s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:29:56+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002194s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0048s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:30:23+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:30:24+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0076s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:30:26+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:30:29+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005035s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:31:03+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0092s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:31:04+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:31:44+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:31:45+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:31:47+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004113s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:22+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:24+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:34+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0076s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:35+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:36+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0079s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T00:34:36+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:37+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0073s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:34:37+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T00:52:36+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0034s ]
+
+[ 2017-05-23T00:52:42+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0069s ]
+
+[ 2017-05-23T00:52:42+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0073s ]
+
+[ 2017-05-23T00:52:43+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0075s ]
+
+[ 2017-05-23T00:59:36+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0076s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T01:10:13+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:56:06+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0072s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T15:56:09+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0034s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:56:31+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0034s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:56:33+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0073s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T15:56:49+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:57:15+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=sendCommand
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `db_admin` WHERE ( command="07ce0c5a711eebaf2cf906366791d2bc" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T15:57:15+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0033s ]
+
+[ 2017-05-23T15:57:35+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0060s ]
+
+[ 2017-05-23T15:57:45+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0031s ]
+
+[ 2017-05-23T15:57:46+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0035s ]
+
+[ 2017-05-23T15:57:52+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0062s ]
+
+[ 2017-05-23T15:57:52+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0074s ]
+
+[ 2017-05-23T15:57:53+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0064s ]
+
+[ 2017-05-23T15:57:55+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0003s ]
+
+[ 2017-05-23T15:57:55+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0031s ]
+
+[ 2017-05-23T15:57:57+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0063s ]
+
+[ 2017-05-23T15:57:57+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:57:58+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0035s ]
+
+[ 2017-05-23T15:57:59+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0034s ]
+
+[ 2017-05-23T15:58:00+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0039s ]
+
+[ 2017-05-23T15:58:07+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0041s ]
+
+[ 2017-05-23T15:58:07+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:58:11+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0035s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:58:11+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0027s ]
+
+[ 2017-05-23T15:58:13+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0069s ]
+
+[ 2017-05-23T15:58:13+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001594s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:58:15+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0067s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:58:15+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0030s ]
+
+[ 2017-05-23T15:58:19+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0063s ]
+
+[ 2017-05-23T15:58:41+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0077s ]
+
+[ 2017-05-23T15:58:41+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:58:41+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0068s ]
+
+[ 2017-05-23T15:58:41+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0002s ]
+
+[ 2017-05-23T15:58:42+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0066s ]
+
+[ 2017-05-23T15:58:42+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:02:01+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0069s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:02:33+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0027s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:07:27+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=sendCommand
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `db_admin` WHERE ( command="07ce0c5a711eebaf2cf906366791d2bc" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:07:28+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0042s ]
+
+[ 2017-05-23T16:07:30+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0064s ]
+
+[ 2017-05-23T16:07:30+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:07:30+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0032s ]
+
+[ 2017-05-23T16:07:31+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0065s ]
+
+[ 2017-05-23T16:08:12+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=sendCommand
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `db_admin` WHERE ( command="07ce0c5a711eebaf2cf906366791d2bc" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:08:12+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0027s ]
+
+[ 2017-05-23T16:08:13+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0075s ]
+
+[ 2017-05-23T16:08:14+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0033s ]
+
+[ 2017-05-23T16:08:15+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0039s ]
+
+[ 2017-05-23T16:08:15+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:08:17+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0062s ]
+
+[ 2017-05-23T16:08:17+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:08:18+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0038s ]
+
+[ 2017-05-23T16:08:18+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0027s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:08:19+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0077s ]
+
+[ 2017-05-23T16:08:19+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0028s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:08:19+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0027s ]
+
+[ 2017-05-23T16:08:20+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0061s ]
+
+[ 2017-05-23T16:08:31+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0065s ]
+
+[ 2017-05-23T16:50:07+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=sendCommand
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `db_admin` WHERE ( command="07ce0c5a711eebaf2cf906366791d2bc" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:50:07+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0026s ]
+
+[ 2017-05-23T16:50:08+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0065s ]
+
+[ 2017-05-23T16:50:09+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0032s ]
+
+[ 2017-05-23T16:50:09+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=user&a=getAllUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_user`  [ RunTime:0.0003s ]
+
+[ 2017-05-23T16:50:09+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0070s ]
+
+[ 2017-05-23T16:50:09+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0027s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T16:50:09+08:00 ] ::1 /eduWeb/API/index.php?m=admin&c=admin&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0061s ]
+
+[ 2017-05-23T19:40:34+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0045s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T19:40:47+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T19:40:57+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0037s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T19:45:11+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T19:46:08+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0026s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T19:47:05+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0024s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-23T19:48:27+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-23T19:48:31+08:00 ] ::1 /eduWeb/API/index.php?m=Admin&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+NOTIC: [2048] Declaration of Admin\Controller\AnnouncementController::get() should be compatible with Think\Controller::get($name = '') D:\Tool\phpStudy\WWW\eduWeb\API\Application\Admin\Controller\AnnouncementController.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `db_announcement` [ RunTime:0.0024s ]
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 9 行.
+NOTIC: [8] Undefined variable: _db D:\Tool\phpStudy\WWW\eduWeb\API\Application\Common\Model\AnnouncementModel.class.php 第 19 行.
+SQL: SELECT * FROM `db_announcement` LIMIT 1   [ RunTime:0.0002s ]
+

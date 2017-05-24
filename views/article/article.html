@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="UTF-8">
+    <title>文章页</title>
+    <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../../css/home.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<nav class="navbar-inverse header">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">ITEDU</a>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="../../index.html">首页</a></li>
+                <li><a href="../course/courseList.html">课程</a></li>
+                <li class="active"><a href="../bbs/bbs.html">论坛</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" id="nav-setting">
+                <li><a href="javascript:;" id="login-btn">登录</a></li>
+                <li><a href="../register.html">注册</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="shade"></div>
+<div class="login-box">
+    <h4>登录</h4>
+    <a href="javascript:;" class="close-btn" id="login-close-btn"><span>×</span></a>
+    <form>
+        <div class="form-group">
+            <label for="login-username">用户名</label>
+            <input type="text" class="form-control" id="login-username" placeholder="Username">
+        </div>
+        <div class="form-group">
+            <label for="login-password">密码</label>
+            <input type="password" class="form-control" id="login-password" placeholder="Password">
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox"> 下次自动登录
+            </label>
+        </div>
+        <p class="login-tips" id="login-tips">&nbsp;</p>
+        <div class="form-group">
+            <button type="button" class="form-control btn btn-danger" id="login-in">登录</button>
+        </div>
+    </form>
+</div>
+<div class="container">
+    <div class="article">
+        <h1></h1>
+        <span class="article-date color-aaa"></span>
+        <span class="color-aaa"><span class="comment-num">1</span>评论</span>
+        <div id="preview-column"></div>
+    </div>
+    <div class="comments">
+        <div class="comment-item">
+            <div class="comment-header">
+                <span class="h4">全部评论</span>
+                <span class="color-aaa"><span class="comment-num">1</span>条</span>
+                <hr>
+            </div>
+        </div>
+    </div>
+    <div class="sendComment">
+        <h4>发表评论</h4>
+        <hr>
+        <textarea class="form-control" rows="5" id="comment-message" maxlength="500"></textarea>
+        <button class="btn btn-primary" id="sendComment">发布</button>
+    </div>
+</div>
+<div class="footer">
+    <div class="container footer-info-group text-center">
+        <ul>
+            <li><a href="../admin/login.html">管理员通道</a></li>
+        </ul>
+    </div>
+</div>
+<script src="../../js/common/jquery-1.11.2.min.js"></script>
+<script src="../../js/common/marked.js"></script>
+<script src="../../js/common/ace.js"></script>
+<script src="../../js/common/bootstrap.min.js"></script>
+<script src="../../js/common/layer/layer.js"></script>
+<script src="../../js/common/dialog.js"></script>
+<script src="../../js/home/controllers/article.js"></script>
+<script src="../../js/home/controllers/comment.js"></script>
+<script src="../../js/home/controllers/login.js"></script>
+<script src="../../js/home/controllers/common.js"></script>
+<script src="../../js/home/views/common.js"></script>
+<script src="../../js/home/views/article.js"></script>
+</body>
+</html>

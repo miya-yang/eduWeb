@@ -1,0 +1,863 @@
+[ 2017-05-22T12:51:49+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0032s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0008s ]
+
+[ 2017-05-22T13:07:33+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0033s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:07:35+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getOneBbs&id=1&action=bbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `db_bbs` WHERE ( bbsId=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:07:41+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0081s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:07:42+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0073s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:07:43+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:07:46+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getOneBbs&id=1&action=bbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_bbs` WHERE ( bbsId=1 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-22T13:07:47+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0078s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:08:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:09:01+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0081s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T13:20:46+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0077s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0029s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:20:52+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:21:39+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0073s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:57:44+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+
+[ 2017-05-22T13:59:03+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getOneBbs&id=1&action=bbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `db_bbs` WHERE ( bbsId=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:59:05+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0082s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0045s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:59:06+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getOneBbs&id=1&action=bbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `db_bbs` WHERE ( bbsId=1 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-22T15:08:33+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T15:10:40+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0043s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T15:31:33+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0031s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+
+[ 2017-05-22T15:31:49+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T15:31:49+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0005s ]
+
+[ 2017-05-22T16:32:22+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0055s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T16:32:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0093s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+
+[ 2017-05-22T16:32:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+
+[ 2017-05-22T16:32:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0053s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T16:32:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0059s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+
+[ 2017-05-22T16:58:06+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0097s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0055s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+
+[ 2017-05-22T16:58:12+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0096s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0054s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T16:58:14+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getOneBbs&id=1&action=bbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `db_bbs` WHERE ( bbsId=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-22T16:58:16+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0050s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T16:58:18+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getOneBbs&id=1&action=bbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `db_bbs` WHERE ( bbsId=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-22T16:58:47+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0089s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0054s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T17:15:14+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0050s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:14:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0038s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:15:07+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:36:24+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:36:25+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:36:36+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0089s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0050s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:36:55+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:36:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0045s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:37:06+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0081s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0045s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:37:22+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:37:30+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:37:34+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0048s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0043s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:37:45+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0038s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:37:49+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0041s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:38:27+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:38:29+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:39:27+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:39:35+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002936s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:40:20+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0084s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:40:25+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002393s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:40:42+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0033s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:41:00+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0038s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:41:35+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0116s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:41:40+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:41:47+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0045s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:41:51+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:42:31+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001897s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:42:36+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:43:01+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:43:06+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:43:08+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0079s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0046s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:43:12+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002460s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0041s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:43:18+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004956s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:43:22+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:44:06+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001264s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:44:11+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:44:53+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0079s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0047s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:44:59+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0074s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0041s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:47:51+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0043s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+
+[ 2017-05-22T23:48:43+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0029s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:50:28+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0032s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:50:35+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0032s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:50:46+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0029s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:50:48+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0031s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:58:51+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0030s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:59:22+08:00 ] ::1 /eduWeb/API/index.php?m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `db_bbs` [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT a.username as username,b.bbsId as bbsId,b.title as title,b.content as content,b.createAt as createAt FROM db_user  as  a INNER JOIN db_bbs  as  b  on  b.userId = a.objectId   [ RunTime:0.0004s ]
+

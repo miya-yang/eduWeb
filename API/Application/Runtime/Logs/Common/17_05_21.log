@@ -1,0 +1,168 @@
+[ 2017-05-21T13:04:13+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:14+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:17+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:19+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:19+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:19+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:19+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:21+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:23+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:52+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:52+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:52+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:04:52+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T13:05:29+08:00 ] ::1 /eduWeb/API/index.php?m=Announcement&c=Announcement&a=get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Announcement
+
+[ 2017-05-21T15:41:15+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:41:54+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:41:54+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:42:06+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:42:09+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:42:32+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:42:45+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:43:07+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:45:46+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T15:59:17+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-21T22:25:45+08:00 ] ::1 /eduWeb/API/index.php/views/article/setArticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+ERR: 无法加载模块:Views
+
+[ 2017-05-21T22:25:56+08:00 ] ::1 /eduWeb/API/index.php/views/article/setArticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Views
+
+[ 2017-05-21T22:26:08+08:00 ] ::1 /eduWeb/API/index.php/views/article/setArticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Views
+
+[ 2017-05-21T22:26:43+08:00 ] ::1 /eduWeb/API/index.php/views/article/setArticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Views
+

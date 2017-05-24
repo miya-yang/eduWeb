@@ -1,0 +1,66 @@
+[ 2017-05-17T15:02:31+08:00 ] ::1 /eduWeb/API/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-05-17T21:11:38+08:00 ] ::1 /eduWeb/API/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2017-05-17T22:29:26+08:00 ] ::1 /eduWeb/API/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2017-05-17T22:29:26+08:00 ] ::1 /eduWeb/API/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001149s ]
+
+[ 2017-05-17T22:59:37+08:00 ] ::1 /eduWeb/API/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-05-17T22:59:37+08:00 ] ::1 /eduWeb/API/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+

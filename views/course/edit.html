@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>编辑课程</title>
+    <script src="../../js/common/jquery-1.11.2.min.js"></script>
+    <script src="../../js/common/marked.js"></script>
+    <script src="../../js/common/ace.js"></script>
+    <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../../css/markdown.css" rel="stylesheet" type="text/css">
+    <link href="../../css/edit.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="toolbar">
+    <form>
+        <button type="button" class="btn btn-danger btn-submit" id="submit-btn">发布</button>
+        <div class="form-group">
+            <input type="text" class="form-control edit-course-title" id="title" placeholder="请输入标题">
+            <input type="text" class="form-control edit-course-desc" id="desc" placeholder="请输入课程描述">
+            <select id="classify" class="edit-course-classify"></select>
+        </div>
+    </form>
+</div>
+<div id="container">
+    <div id="editor-column" class="pull-left"></div>
+    <div id="preview-column" class="pull-right"></div>
+</div>
+<script src="../../js/common/jquery-1.11.2.min.js"></script>
+<script src="../../js/common/bootstrap.min.js"></script>
+<script src="../../js/common/layer/layer.js"></script>
+<script src="../../js/common/to-markdown.js"></script>
+<script src="../../js/common/dialog.js"></script>
+<script src="../../js/home/controllers/article.js"></script>
+<script src="../../js/home/controllers/course.js"></script>
+<script src="../../js/home/controllers/login.js"></script>
+<script src="../../js/home/controllers/common.js"></script>
+<script src="../../js/home/views/common.js"></script>
+<script src="../../js/home/views/edit.js"></script>
+</body>
+</html>

@@ -1,0 +1,825 @@
+[ 2017-05-15T13:09:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:09:46+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:09:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:09:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:10:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:10:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:10:39+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:10:40+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:11:08+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:11:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:12:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:15:20+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:15:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T13:15:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T23:12:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+
+[ 2017-05-15T23:12:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+ERR: SQLSTATE[HY000] [2019] Unknown character set
+
+[ 2017-05-15T23:15:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+ERR: SQLSTATE[HY000] [2019] Unknown character set
+
+[ 2017-05-15T23:17:45+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+ERR: SQLSTATE[HY000] [2019] Unknown character set
+
+[ 2017-05-15T23:19:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='rootwegweg' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002160s ]
+
+[ 2017-05-15T23:19:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='rootwegweg' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2017-05-15T23:19:45+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2017-05-15T23:20:00+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2017-05-15T23:33:38+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+
+[ 2017-05-15T23:33:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-05-15T23:34:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+
+[ 2017-05-15T23:35:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+
+[ 2017-05-15T23:35:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-05-15T23:36:08+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-05-15T23:36:28+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:36:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:39:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-05-15T23:39:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000920s ]
+
+[ 2017-05-15T23:40:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001301s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:40:42+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:40:45+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-15T23:40:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:41:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:41:31+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:41:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:42:40+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:42:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang3' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:42:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:43:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-15T23:43:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miange' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:43:39+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:44:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:44:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:45:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:45:40+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:45:59+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:46:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+NOTIC: [8] Undefined index: username D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 9 行.
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-15T23:46:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:47:26+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:47:56+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:48:45+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234235' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:48:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:49:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='root234' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:49:39+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='abcd1234' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:50:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='abcd1234' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:51:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='abcd1234' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:51:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+NOTIC: [8] Undefined index: password D:\Tool\phpStudy\WWW\eduWeb\API\Application\User\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='abcd1234' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:51:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:52:03+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:52:28+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:52:32+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:52:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:52:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:53:37+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001873s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:53:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:54:13+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='admin1' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:54:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='admin1' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:55:00+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:55:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:55:20+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-15T23:57:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:58:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:58:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:58:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-15T23:58:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-15T23:58:56+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_user` WHERE ( username='miyang' ) LIMIT 1   [ RunTime:0.0003s ]
+

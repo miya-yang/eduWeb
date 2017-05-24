@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="UTF-8">
+    <title>安全设置</title>
+    <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../../css/home.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<nav class="navbar-inverse header">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">ITEDU</a>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="../../index.html">首页</a></li>
+                <li><a href="../course/courseList.html">课程</a></li>
+                <li><a href="../bbs/bbs.html">论坛</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" id="nav-setting">
+                <li><a href="javascript:;" id="login-btn">登录</a></li>
+                <li><a href="../register.html">注册</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="shade"></div>
+<div class="login-box">
+    <h4>登录</h4>
+    <a href="javascript:;" class="close-btn" id="login-close-btn"><span>×</span></a>
+    <form>
+        <div class="form-group">
+            <label for="login-username">用户名</label>
+            <input type="text" class="form-control" id="login-username" placeholder="Username">
+        </div>
+        <div class="form-group">
+            <label for="login-password">密码</label>
+            <input type="password" class="form-control" id="login-password" placeholder="Password">
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox"> 下次自动登录
+            </label>
+        </div>
+        <p class="login-tips" id="login-tips">&nbsp;</p>
+        <div class="form-group">
+            <button type="button" class="form-control btn btn-danger" id="login-in">登录</button>
+        </div>
+    </form>
+</div>
+<div class="alert alert-info" role="alert">公告：<span id="an-content"></span></div>
+<div class="container">
+    <div class="setting">
+        <div class="row container">
+            <div class="col-lg-3 setting-nav">
+                <a href="setPortrait.html" class="goPortrait"><img src="../../img/user/portrait/test.jpg" id="portrait"></a>
+                <h4>用户管理</h4>
+                <hr>
+                <ul>
+                    <a href="setProfile.html"><li>个人信息</li></a>
+                    <a href="setSafeInfo.html" class="setting-btn-active"><li>安全设置</li></a>
+                </ul>
+            </div>
+            <div class="col-lg-7 col-lg-offset-1 setting-panel">
+                <form class="form-horizontal">
+                    <h4>修改手机</h4>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">当前密码</label>
+                        <div class="col-sm-7">
+                            <input type="password" class="form-control" name="oldPassword" value="" id="phone-password">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">新手机号</label>
+                        <div class="col-sm-7">
+                            <input type="tel" class="form-control" name="phone" value="" maxlength="11" id="phone-phone">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">
+                            <button type="button" class="btn btn-danger" id="edit-phone-btn">修改手机号</button>
+                        </label>
+                    </div>
+                </form>
+                <hr>
+                <form class="form-horizontal">
+                    <h4>修改密码</h4>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">当前密码</label>
+                        <div class="col-sm-7">
+                            <input type="password" class="form-control" name="oldPassword" value="" id="password-old">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">新密码</label>
+                        <div class="col-sm-7">
+                            <input type="password" class="form-control" name="newPassword" value="" id="password-new">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">重复密码</label>
+                        <div class="col-sm-7">
+                            <input type="password" class="form-control" name="newPassword2" value="" id="password-new2">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">
+                            <button type="button" class="btn btn-danger" id="edit-password-btn">修改密码</button>
+                        </label>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="container footer-info-group text-center">
+        <ul>
+            <li><a href="../admin/login.html">管理员通道</a></li>
+        </ul>
+    </div>
+</div>
+<script src="../../js/common/jquery-1.11.2.min.js"></script>
+<script src="../../js/common/bootstrap.min.js"></script>
+<script src="../../js/common/layer/layer.js"></script>
+<script src="../../js/common/dialog.js"></script>
+<script src="../../js/home/controllers/login.js"></script>
+<script src="../../js/home/controllers/common.js"></script>
+<script src="../../js/home/controllers/bbs.js"></script>
+<script src="../../js/home/controllers/user.js"></script>
+<script src="../../js/home/views/common.js"></script>
+<script src="../../js/home/views/bbs.js"></script>
+<script src="../../js/home/views/user.js"></script>
+</body>
+</html>

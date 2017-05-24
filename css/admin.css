@@ -1,0 +1,86 @@
+body {
+    font-family: "Consolas","Microsoft YaHei UI";
+    width: 100%;
+    background: #eee;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.admin-login {
+    width: 50%;
+}
+
+.admin-login input {
+    width: 100%;
+    border: none;
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 100px;
+    text-align: center;
+    font-size: 32px;
+    border-bottom: 1px solid #ccc;
+}
+
+.admin-block h1 {
+    text-align: center;
+    color: #04477C;
+    padding-top: 20px;
+    margin: 0;
+}
+
+.admin-left {
+    width: 20%;
+    min-width: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+    float: left;
+}
+
+.admin-list {
+    border-right: 1px solid #d5d5d5;
+}
+
+.admin-list li {
+    list-style: none;
+    text-align: center;
+    border-bottom: 1px solid #d5d5d5;
+    padding: 15px 20px;
+    color: #000;
+    background: #fff;
+}
+
+.admin-list li:hover {
+    background: #4499EE;
+    color: #D6E9FC;
+}
+
+.list-active {
+    background: #4499EE !important;
+    color: #D6E9FC !important;
+}
+
+.admin-list a {
+    text-decoration: none;
+}
+
+.admin-right {
+    width: 80%;
+    height: 500px;
+    float: left;
+    overflow: scroll;
+    overflow-x: hidden;
+    background: #eee;
+}
+
+.an-textarea {
+    resize: none;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.float-right {
+    float: right;
+    margin: 5px 5px 0 0;
+}

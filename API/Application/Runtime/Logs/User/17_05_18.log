@@ -1,0 +1,3130 @@
+[ 2017-05-18T00:03:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+
+[ 2017-05-18T00:03:45+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-05-18T00:03:46+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+
+[ 2017-05-18T00:03:46+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+
+[ 2017-05-18T00:03:46+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007607s ]
+
+[ 2017-05-18T00:03:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-05-18T00:03:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+
+[ 2017-05-18T00:04:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002195s ]
+
+[ 2017-05-18T00:04:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001584s ]
+
+[ 2017-05-18T00:04:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+
+[ 2017-05-18T00:05:00+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-05-18T00:05:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+
+[ 2017-05-18T00:05:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+
+[ 2017-05-18T00:05:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+
+[ 2017-05-18T00:05:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+
+[ 2017-05-18T00:05:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+
+[ 2017-05-18T00:15:10+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+
+[ 2017-05-18T00:15:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+
+[ 2017-05-18T00:15:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+
+[ 2017-05-18T00:16:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+
+[ 2017-05-18T00:16:29+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-05-18T00:16:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001529s ]
+
+[ 2017-05-18T00:17:09+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001581s ]
+
+[ 2017-05-18T00:17:09+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+
+[ 2017-05-18T00:17:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-05-18T00:17:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+
+[ 2017-05-18T00:17:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+
+[ 2017-05-18T00:17:40+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:17:44+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+
+[ 2017-05-18T00:17:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+
+[ 2017-05-18T00:17:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+
+[ 2017-05-18T00:17:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+
+[ 2017-05-18T00:17:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001334s ]
+
+[ 2017-05-18T00:17:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+
+[ 2017-05-18T00:17:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-05-18T00:17:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-05-18T00:17:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-05-18T00:21:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=logOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+
+[ 2017-05-18T00:21:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+
+[ 2017-05-18T00:21:32+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+
+[ 2017-05-18T00:21:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:21:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:22:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+
+[ 2017-05-18T00:22:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=logOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+
+[ 2017-05-18T00:22:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+
+[ 2017-05-18T00:23:00+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-05-18T00:23:00+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+
+[ 2017-05-18T00:23:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+
+[ 2017-05-18T00:23:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=logOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-05-18T00:23:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+
+[ 2017-05-18T00:23:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:23:59+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-05-18T00:24:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+
+[ 2017-05-18T00:24:04+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+
+[ 2017-05-18T00:24:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=logOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+
+[ 2017-05-18T00:24:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+
+[ 2017-05-18T00:24:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:24:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-05-18T00:24:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:24:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:25:08+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:25:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-18T00:26:04+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:26:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-05-18T00:26:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+
+[ 2017-05-18T00:26:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=logOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+
+[ 2017-05-18T00:26:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+
+[ 2017-05-18T00:27:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:27:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:27:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+
+[ 2017-05-18T00:27:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=logOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+
+[ 2017-05-18T00:27:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+
+[ 2017-05-18T00:27:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+
+[ 2017-05-18T00:27:42+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `db_user` WHERE ( username="miyang" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-05-18T00:27:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-05-18T00:27:56+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-05-18T00:33:30+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+
+[ 2017-05-18T00:33:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+
+[ 2017-05-18T00:33:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2017-05-18T00:33:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-05-18T00:33:59+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-05-18T00:33:59+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001701s ]
+
+[ 2017-05-18T00:34:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+
+[ 2017-05-18T00:34:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+
+[ 2017-05-18T00:34:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+
+[ 2017-05-18T00:34:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+
+[ 2017-05-18T00:34:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+
+[ 2017-05-18T00:34:37+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+
+[ 2017-05-18T00:36:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002104s ]
+
+[ 2017-05-18T00:36:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-05-18T00:36:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+
+[ 2017-05-18T00:36:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-05-18T00:36:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+
+[ 2017-05-18T00:36:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+
+[ 2017-05-18T00:36:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+
+[ 2017-05-18T00:37:00+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-05-18T00:37:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-05-18T00:37:03+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-05-18T00:37:04+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+
+[ 2017-05-18T00:38:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+
+[ 2017-05-18T00:38:09+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-05-18T00:38:09+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+
+[ 2017-05-18T00:38:11+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+
+[ 2017-05-18T00:38:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-05-18T00:38:29+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-05-18T00:38:31+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+
+[ 2017-05-18T00:38:38+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+
+[ 2017-05-18T00:38:42+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+
+[ 2017-05-18T00:38:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-05-18T00:38:44+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+
+[ 2017-05-18T00:38:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-05-18T00:38:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-05-18T00:39:03+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+
+[ 2017-05-18T00:41:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+
+[ 2017-05-18T00:41:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+
+[ 2017-05-18T00:41:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+
+[ 2017-05-18T00:41:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+
+[ 2017-05-18T00:41:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+
+[ 2017-05-18T00:41:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+
+[ 2017-05-18T00:41:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+
+[ 2017-05-18T00:41:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+
+[ 2017-05-18T00:41:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+
+[ 2017-05-18T00:41:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+
+[ 2017-05-18T00:41:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+
+[ 2017-05-18T00:41:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+
+[ 2017-05-18T00:41:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2017-05-18T00:49:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-05-18T00:49:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+
+[ 2017-05-18T00:50:00+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+
+[ 2017-05-18T00:50:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+
+[ 2017-05-18T00:50:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+
+[ 2017-05-18T00:50:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-05-18T00:50:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+
+[ 2017-05-18T00:50:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+
+[ 2017-05-18T00:50:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+
+[ 2017-05-18T00:50:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-05-18T00:50:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-05-18T00:50:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+
+[ 2017-05-18T00:51:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+
+[ 2017-05-18T00:52:32+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-05-18T00:52:32+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+
+[ 2017-05-18T00:52:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+
+[ 2017-05-18T00:52:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+
+[ 2017-05-18T00:52:38+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001762s ]
+
+[ 2017-05-18T00:52:38+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+
+[ 2017-05-18T00:52:39+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+
+[ 2017-05-18T00:52:39+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-05-18T00:52:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+
+[ 2017-05-18T00:52:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-05-18T00:52:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+
+[ 2017-05-18T00:53:04+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+
+[ 2017-05-18T00:53:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-05-18T00:53:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+
+[ 2017-05-18T00:53:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+
+[ 2017-05-18T00:53:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+
+[ 2017-05-18T00:53:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+
+[ 2017-05-18T00:53:25+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+
+[ 2017-05-18T00:53:25+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+
+[ 2017-05-18T00:54:46+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005141s ]
+
+[ 2017-05-18T00:54:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+
+[ 2017-05-18T00:54:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+
+[ 2017-05-18T00:54:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-05-18T00:54:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+
+[ 2017-05-18T00:54:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-05-18T00:54:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002384s ]
+
+[ 2017-05-18T00:54:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+
+[ 2017-05-18T00:55:23+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-05-18T00:55:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-05-18T00:55:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-05-18T00:55:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+
+[ 2017-05-18T00:55:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+
+[ 2017-05-18T00:55:25+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+
+[ 2017-05-18T00:56:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-05-18T00:56:37+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+
+[ 2017-05-18T00:56:39+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+
+[ 2017-05-18T00:56:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+
+[ 2017-05-18T00:56:46+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+
+[ 2017-05-18T00:56:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-05-18T00:56:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+
+[ 2017-05-18T00:56:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+
+[ 2017-05-18T00:56:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+
+[ 2017-05-18T00:56:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+
+[ 2017-05-18T00:56:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+
+[ 2017-05-18T00:56:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+
+[ 2017-05-18T00:57:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+
+[ 2017-05-18T00:57:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+
+[ 2017-05-18T00:57:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+
+[ 2017-05-18T00:57:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002152s ]
+
+[ 2017-05-18T00:57:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+
+[ 2017-05-18T00:57:20+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+
+[ 2017-05-18T00:57:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+
+[ 2017-05-18T00:57:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+
+[ 2017-05-18T00:57:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+
+[ 2017-05-18T00:57:28+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+
+[ 2017-05-18T00:57:29+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+
+[ 2017-05-18T00:57:30+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+
+[ 2017-05-18T00:57:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011443s ]
+
+[ 2017-05-18T00:57:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+
+[ 2017-05-18T00:57:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002362s ]
+
+[ 2017-05-18T01:01:30+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+
+[ 2017-05-18T01:01:33+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+
+[ 2017-05-18T01:01:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+
+[ 2017-05-18T01:01:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+
+[ 2017-05-18T01:01:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+
+[ 2017-05-18T01:01:37+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003434s ]
+
+[ 2017-05-18T01:02:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+
+[ 2017-05-18T01:02:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+
+[ 2017-05-18T01:02:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-18T01:02:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-05-18T01:02:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+
+[ 2017-05-18T01:02:04+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+
+[ 2017-05-18T01:02:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+
+[ 2017-05-18T01:02:08+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+
+[ 2017-05-18T01:02:09+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+
+[ 2017-05-18T01:02:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+
+[ 2017-05-18T01:02:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001700s ]
+
+[ 2017-05-18T01:02:40+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+
+[ 2017-05-18T01:02:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-05-18T01:02:44+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+
+[ 2017-05-18T01:02:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+
+[ 2017-05-18T01:02:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+
+[ 2017-05-18T01:03:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+
+[ 2017-05-18T01:03:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+
+[ 2017-05-18T01:03:08+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000272s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+
+[ 2017-05-18T01:03:09+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+
+[ 2017-05-18T01:03:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-05-18T01:03:20+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-05-18T01:03:25+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+
+[ 2017-05-18T01:03:26+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+
+[ 2017-05-18T01:03:28+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+
+[ 2017-05-18T01:03:29+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+
+[ 2017-05-18T01:03:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+
+[ 2017-05-18T01:04:01+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+
+[ 2017-05-18T01:07:26+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+
+[ 2017-05-18T01:07:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+
+[ 2017-05-18T01:08:30+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-05-18T01:08:31+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001756s ]
+
+[ 2017-05-18T01:09:13+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-05-18T01:09:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+
+[ 2017-05-18T01:09:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+
+[ 2017-05-18T01:09:16+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002244s ]
+
+[ 2017-05-18T01:09:16+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+
+[ 2017-05-18T01:09:26+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+
+[ 2017-05-18T01:09:26+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+
+[ 2017-05-18T01:09:29+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+
+[ 2017-05-18T01:09:31+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-05-18T01:09:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-05-18T01:10:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+
+[ 2017-05-18T01:10:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-05-18T01:10:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003020s ]
+
+[ 2017-05-18T01:10:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-05-18T01:10:17+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+
+[ 2017-05-18T01:10:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+
+[ 2017-05-18T01:10:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+
+[ 2017-05-18T01:10:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-05-18T01:10:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-05-18T01:10:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+
+[ 2017-05-18T01:10:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-05-18T01:10:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-05-18T01:10:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+
+[ 2017-05-18T01:10:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+
+[ 2017-05-18T01:10:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+
+[ 2017-05-18T01:10:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+
+[ 2017-05-18T01:10:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+
+[ 2017-05-18T01:10:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+
+[ 2017-05-18T01:11:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+
+[ 2017-05-18T01:12:39+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001487s ]
+
+[ 2017-05-18T01:12:40+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+
+[ 2017-05-18T01:12:42+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+
+[ 2017-05-18T01:12:43+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+
+[ 2017-05-18T01:12:44+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+
+[ 2017-05-18T01:12:45+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-18T01:12:46+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+
+[ 2017-05-18T01:12:47+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+
+[ 2017-05-18T01:12:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-05-18T01:12:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-05-18T01:13:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+
+[ 2017-05-18T01:13:03+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001461s ]
+
+[ 2017-05-18T01:13:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+
+[ 2017-05-18T01:13:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+
+[ 2017-05-18T01:13:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+
+[ 2017-05-18T01:13:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+
+[ 2017-05-18T01:13:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+
+[ 2017-05-18T01:13:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+
+[ 2017-05-18T01:13:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-05-18T01:13:08+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+
+[ 2017-05-18T01:13:09+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+
+[ 2017-05-18T01:13:10+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+
+[ 2017-05-18T01:13:11+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+
+[ 2017-05-18T01:13:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-05-18T01:13:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001882s ]
+
+[ 2017-05-18T01:13:20+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-05-18T01:13:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-05-18T01:13:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-05-18T01:13:23+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+
+[ 2017-05-18T01:13:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+
+[ 2017-05-18T01:13:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-05-18T01:13:49+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-05-18T01:13:50+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003853s ]
+
+[ 2017-05-18T01:13:51+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+
+[ 2017-05-18T01:13:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+
+[ 2017-05-18T01:13:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+
+[ 2017-05-18T01:13:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+
+[ 2017-05-18T01:13:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-05-18T01:13:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+
+[ 2017-05-18T01:13:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+
+[ 2017-05-18T01:13:56+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+
+[ 2017-05-18T01:13:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002191s ]
+
+[ 2017-05-18T01:14:03+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+
+[ 2017-05-18T01:14:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+
+[ 2017-05-18T01:14:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+
+[ 2017-05-18T01:14:23+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-05-18T01:14:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+
+[ 2017-05-18T01:14:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+
+[ 2017-05-18T10:43:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+
+[ 2017-05-18T10:43:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+
+[ 2017-05-18T10:43:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-05-18T10:43:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-05-18T10:43:57+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-05-18T10:44:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-05-18T10:44:03+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-05-18T10:44:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-05-18T10:44:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-05-18T10:44:56+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-05-18T10:45:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-05-18T10:45:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-05-18T10:46:52+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-05-18T10:46:53+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-05-18T10:46:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-05-18T10:46:54+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+
+[ 2017-05-18T10:46:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-05-18T10:46:55+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-05-18T10:46:56+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+
+[ 2017-05-18T10:46:56+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-05-18T10:47:05+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-05-18T10:47:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-05-18T10:47:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+
+[ 2017-05-18T10:47:06+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-05-18T10:47:07+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-05-18T10:47:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-05-18T10:47:16+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-05-18T10:47:16+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-05-18T10:47:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-05-18T10:47:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-05-18T10:47:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-05-18T10:47:21+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-05-18T10:47:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-05-18T10:47:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-05-18T10:47:22+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-05-18T10:47:23+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-05-18T10:47:23+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-05-18T10:47:23+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-05-18T10:47:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+
+[ 2017-05-18T10:47:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+
+[ 2017-05-18T10:47:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-05-18T10:47:24+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-05-18T10:47:41+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+
+[ 2017-05-18T10:47:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+
+[ 2017-05-18T10:48:13+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-05-18T10:48:13+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-05-18T10:48:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-05-18T10:48:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-05-18T10:48:14+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-05-18T10:48:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+
+[ 2017-05-18T10:48:15+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+
+[ 2017-05-18T10:48:16+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-05-18T10:48:16+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-05-18T10:48:18+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-05-18T10:49:31+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+
+[ 2017-05-18T10:49:31+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-05-18T10:49:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-05-18T10:49:34+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-05-18T10:49:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-05-18T10:49:35+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+
+[ 2017-05-18T10:49:36+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-05-18T10:52:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+
+[ 2017-05-18T10:52:19+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+
+[ 2017-05-18T10:52:27+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+
+[ 2017-05-18T10:52:41+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+
+[ 2017-05-18T10:53:37+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+
+[ 2017-05-18T10:53:37+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-05-18T10:53:48+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-05-18T10:53:58+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-05-18T10:54:02+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-05-18T10:54:04+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-05-18T10:54:11+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-05-18T10:54:12+08:00 ] ::1 /eduWeb/API/index.php?m=user&c=login&a=isLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+

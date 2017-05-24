@@ -1,0 +1,120 @@
+[ 2017-05-19T20:44:31+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:44:31+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:44:32+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:44:32+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:01+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:01+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:02+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:03+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:03+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:06+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:19+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:22+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:40+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:45:46+08:00 ] ::1 /eduWeb/API/m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 无法加载模块:M=bbs&c=bbs&a=getAllBbs
+
+[ 2017-05-19T20:46:16+08:00 ] ::1 /eduWeb/API/m=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:M=bbs&c=bbs&a=getAllBbs
+
+[ 2017-05-19T20:46:18+08:00 ] ::1 /eduWeb/API/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Application
+
+[ 2017-05-19T20:46:53+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:46:54+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:46:55+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+ERR: 无法加载模块:Index
+
+[ 2017-05-19T20:46:55+08:00 ] ::1 /eduWeb/API/index.phpm=bbs&c=bbs&a=getAllBbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Index
+

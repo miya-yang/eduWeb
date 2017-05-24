@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="UTF-8">
+    <title>课程</title>
+    <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../../css/home.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<nav class="navbar-inverse header">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">ITEDU</a>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="../../index.html">首页</a></li>
+                <li class="active"><a href="courseList.html">课程</a></li>
+                <li><a href="../bbs/bbs.html">论坛</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" id="nav-setting">
+                <li><a href="javascript:;" id="login-btn">登录</a></li>
+                <li><a href="../register.html">注册</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="shade"></div>
+<div class="login-box">
+    <h4>登录</h4>
+    <a href="javascript:;" class="close-btn" id="login-close-btn"><span>×</span></a>
+    <form>
+        <div class="form-group">
+            <label for="login-username">用户名</label>
+            <input type="text" class="form-control" id="login-username" placeholder="Username">
+        </div>
+        <div class="form-group">
+            <label for="login-password">密码</label>
+            <input type="password" class="form-control" id="login-password" placeholder="Password">
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox"> 下次自动登录
+            </label>
+        </div>
+        <p class="login-tips" id="login-tips">&nbsp;</p>
+        <div class="form-group">
+            <button type="button" class="form-control btn btn-danger" id="login-in">登录</button>
+        </div>
+    </form>
+</div>
+<div class="container course-lists">
+    <div class="list-groups">
+        <h4>分类：</h4>
+        <ul id="classify-list">
+        </ul>
+    </div>
+</div>
+<hr class="container">
+<div class="container course-groups">
+    <div class="group-block">
+        <h3></h3>
+        <hr>
+        <div id="course-group">
+            <!--<div class="col-md-3">-->
+                <!--<div class="panel panel-success course-group">-->
+                    <!--<div class="panel-heading text-center">JavaScript 正则表达式</div>-->
+                    <!--<div class="panel-body">-->
+                        <!--<p class="text-center">免费课程</p>-->
+                        <!--<p class="text-center text-decoration">无论你是前端初学者还是中级工程师，此课程都会给你带来不一样的收获。</p>-->
+                        <!--<a href="javascript:;" class="btn btn-warning btn-block">查看详情</a>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        </div>
+
+
+    </div>
+</div>
+<div class="footer">
+    <div class="container footer-info-group text-center">
+        <ul>
+            <li><a href="../admin/login.html">管理员通道</a></li>
+        </ul>
+    </div>
+</div>
+<script src="../../js/common/jquery-1.11.2.min.js"></script>
+<script src="../../js/common/bootstrap.min.js"></script>
+<script src="../../js/common/layer/layer.js"></script>
+<script src="../../js/common/dialog.js"></script>
+<script src="../../js/home/controllers/login.js"></script>
+<script src="../../js/home/controllers/common.js"></script>
+<script src="../../js/home/controllers/course.js"></script>
+<script src="../../js/home/views/common.js"></script>
+<script src="../../js/home/views/courseList.js"></script>
+</body>
+</html>

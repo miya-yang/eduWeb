@@ -1,0 +1,40 @@
+[ 2017-05-24T00:26:51+08:00 ] ::1 /eduWeb/API/index.php?m=course&c=course&a=getcourses&classifyId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+SQL: SHOW COLUMNS FROM `db_course` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `db_course` WHERE ( classifyId=2 )  [ RunTime:0.0006s ]
+
+[ 2017-05-24T00:26:51+08:00 ] ::1 /eduWeb/API/index.php?m=course&c=course&a=getcourses&classifyId=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `db_course` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `db_course`  [ RunTime:0.0002s ]
+
+[ 2017-05-24T00:26:52+08:00 ] ::1 /eduWeb/API/index.php?m=course&c=course&a=getcourses&classifyId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `db_course` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `db_course` WHERE ( classifyId=2 )  [ RunTime:0.0002s ]
+
+[ 2017-05-24T00:26:53+08:00 ] ::1 /eduWeb/API/index.php?m=course&c=course&a=getcourses&classifyId=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `db_course` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `db_course`  [ RunTime:0.0002s ]
+

@@ -1,0 +1,251 @@
+[ 2017-05-22T13:07:35+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=bbs&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0042s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_bbscomment as b on b.objectId = a.objectId  WHERE ( b.articleId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:07:46+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=bbs&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0035s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_bbscomment as b on b.objectId = a.objectId  WHERE ( b.articleId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:20:50+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0029s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=9 )  [ RunTime:0.0005s ]
+
+[ 2017-05-22T13:20:56+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0030s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=9 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:57:18+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0067s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=9 )  [ RunTime:0.0018s ]
+
+[ 2017-05-22T13:59:03+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=bbs&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0037s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_bbscomment as b on b.objectId = a.objectId  WHERE ( b.articleId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:59:06+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=bbs&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0044s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_bbscomment as b on b.objectId = a.objectId  WHERE ( b.articleId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T13:59:10+08:00 ] ::1 /eduWeb/API/index.php?m=Comment&c=comment&a=sendComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+
+[ 2017-05-22T16:57:16+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0051s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=9 )  [ RunTime:0.0006s ]
+
+[ 2017-05-22T16:57:21+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0056s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=9 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T16:57:43+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0055s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=9 )  [ RunTime:0.0002s ]
+
+[ 2017-05-22T16:58:14+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=bbs&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0056s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_bbscomment as b on b.objectId = a.objectId  WHERE ( b.articleId=1 )  [ RunTime:0.0009s ]
+
+[ 2017-05-22T16:58:18+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=bbs&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0051s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_bbscomment as b on b.objectId = a.objectId  WHERE ( b.articleId=1 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T17:15:04+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0060s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T22:10:16+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0036s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0020s ]
+
+[ 2017-05-22T22:10:23+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0043s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:15:12+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0044s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0006s ]
+
+[ 2017-05-22T23:15:57+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0047s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0004s ]
+
+[ 2017-05-22T23:16:02+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002647s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0039s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:16:09+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0034s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0002s ]
+
+[ 2017-05-22T23:16:50+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0081s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0045s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:24:13+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0041s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0003s ]
+
+[ 2017-05-22T23:24:17+08:00 ] ::1 /eduWeb/API/index.php?m=comment&c=comment&a=getComment&action=course&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+SQL: SHOW COLUMNS FROM `db_bbscomment` [ RunTime:0.0073s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT a.objectId as userid,a.nickname as nickname,b.commentId as commentId,b.content as content,b.createAt as createAt FROM db_user as a INNER JOIN db_coursecomment as b on b.objectId = a.objectId  WHERE ( b.articleId=10 )  [ RunTime:0.0003s ]
+
