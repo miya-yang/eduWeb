@@ -38,3 +38,55 @@ INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
 SQL: SHOW COLUMNS FROM `db_course` [ RunTime:0.0070s ]
 SQL: SELECT * FROM `db_course`  [ RunTime:0.0002s ]
 
+[ 2017-05-24T16:08:58+08:00 ] ::1 /eduWeb/API/?m=course&c=course&a=getcourse&classifyId=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+
+[ 2017-05-24T16:09:00+08:00 ] ::1 /eduWeb/API/?m=course&c=course&a=getcourse&classifyId=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+
+[ 2017-05-24T16:09:02+08:00 ] ::1 /eduWeb/API/?m=course&c=course&a=getcourse&classifyId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-05-24T16:09:20+08:00 ] ::1 /eduWeb/API/?m=course&c=course&a=getcourse&classifyId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+
+[ 2017-05-24T17:20:57+08:00 ] ::1 /eduWeb/API/index.php?m=course&c=course&a=getcourses&classifyId=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `db_course` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `db_course`  [ RunTime:0.0007s ]
+
+[ 2017-05-24T17:21:03+08:00 ] ::1 /eduWeb/API/index.php?m=course&c=course&a=getcourses&classifyId=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `db_course` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `db_course`  [ RunTime:0.0003s ]
+

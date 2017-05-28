@@ -100,7 +100,7 @@ var course = {
                 id: id
             },
             dataType: "json",
-            async: true,
+            async: false,
             success: function(res){
                 $(".detail-header h1").text(res.data.name);
                 $("#course-author").text(res.data.nickname);

@@ -20,8 +20,7 @@ Class CourseInfoModel extends Model {
     }
 
     public function getCourseInfoById($i) {
-        //$res = $this -> _db -> where('courseId='.$i) -> find();
-        $res = M() -> table('db_user as a') -> join('db_course as b on b.authorId = a.objectId') -> field('a.nickname as nickname, a.username as username, b.courseId as courseId, b.name as name, b.description as description, b.courseNumber as courseNumber, b.classifyId as classifyId, B.authorId as authorId, b.content as content, b.createAt as createAt, b.updateAt as updateAt') -> find();
+        $res = M() -> table('db_user as a') -> join('db_course as b on b.authorId = a.objectId') -> field('a.nickname as nickname, a.username as username, b.courseId as courseId, b.name as name, b.description as description, b.courseNumber as courseNumber, b.classifyId as classifyId, B.authorId as authorId, b.content as content, b.createAt as createAt, b.updateAt as updateAt') -> where('courseid='.$i) -> find();
         return $res;
     }
 

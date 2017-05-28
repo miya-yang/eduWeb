@@ -115,6 +115,10 @@
     height: 70px;
     overflow: hidden;
 }
+.panel-success>.panel-heading {
+    word-break:keep-all;
+    white-space:nowrap;
+}
 /* courseDetail */
 .color-aaa {
     color: #aaa;
